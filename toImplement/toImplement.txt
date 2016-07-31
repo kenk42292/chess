@@ -1,0 +1,11 @@
+Things to Implement:
+
+	-Pawn: first move can move 2 to the front X
+	-Castle X 
+	-En passante X
+	-If king is taken, game is lost
+	-If a player cannot move, Stalemate --> heuristic for a stalement should be dynamic
+	-If king is in check, next move must get him out of check
+	-Currently 'putting off' moves for later - implement gamma
+	-Human Player graphics
+	-Multithread thinking + thinking while opponent is thinking via simulation
